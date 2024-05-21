@@ -1,4 +1,6 @@
-## Hi there 👋
+## <p align = "center">Hi there 👋 My name is Karen and welcome to my GitHub😁 </p>
+
+
 
 <!--
 **karenyip1999/karenyip1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
