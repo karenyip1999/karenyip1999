@@ -1,7 +1,7 @@
 # <p align = "center">Hi there 👋 My name is Karen and welcome to my GitHub😁 </p>
 
 ## About Me
-<li>🎓 I'm a First Class Computer Science graduate from the University of Kent ready to change my career from assisting end users to creating software solutions through software engineering
+<li>🎓 I'm a First Class Computer Science graduate from the University of Kent excited about utilising and improving my programming skills
 <li>🏆 I'm currently working on gaining more stars and badges on HackerRank 
 <li>🌱 I’m currently practising and documenting my approach to problems on Leetcode using Java
 <li>💬 Ask me anything about my work featured in my pinned repositories below if they interest you!
